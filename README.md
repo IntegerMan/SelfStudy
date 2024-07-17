@@ -1,7 +1,7 @@
 # The Semi-Supervised Learning Program for Prospective Technomancers
 This is **The Semi-Supervised Learning Program for Prospective Technomancers**, a completely made-up, non-accredited, and ridiculous name for a serious effort at self-directed targeted independent studies.
 
-_Note: Contents in this repository are intended to be viewed as an [Obsidian](https://obsidian.md/) Vault_
+_Note: Contents in this repository can also be viewed as an [Obsidian](https://obsidian.md/) Vault_
 
 ## Why am I building this?
 
