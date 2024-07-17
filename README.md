@@ -25,7 +25,7 @@ Nowhere, yet, but keep watching because more content is coming soon as it gets d
 
 Current programs of study include:
 
-- [[Artificial Intelligence]]
+- [Artificial Intelligence](Artificial%20Intelligence.md)
 
 ## Who is this for?
 
